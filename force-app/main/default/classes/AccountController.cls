@@ -41,3 +41,4 @@ public with sharing class AccountController {
     public class AccountUpdateException extends Exception {
     }
 }
+
